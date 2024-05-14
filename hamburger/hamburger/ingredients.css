@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/* CSS Document */
+
 
 .bun-top {
   height: 70px;
@@ -12,14 +12,14 @@
 .cheese {
   height: 15px;
   width: 65%;
-  background: #f2c120;
+  background: #ffe300;
   border-bottom: solid 2px rgba(0,0,0,.1);
 }
 
 .tomato {
-  height: 25px;
-  width: 50%;
-  background-color: #dd3710;
+  height: 15px;
+  width: 40%;
+  background-color: #ff6c44;
   border-bottom: solid 2px rgba(0,0,0,.1);
 }
 
@@ -35,22 +35,22 @@
 .patty {
   height: 35px;
   width: 65%;
-  background: #ad370b;
+  background: #a16515;
   border-radius: 15px;
   border-bottom: solid 2px rgba(0,0,0,.1);
 }
 
 .pickle {
-  height: 30px;
-  width: 50%;
-  background: #3ac67d;
+  height: 15px;
+  width: 40%;
+  background: #03974C;
   border-radius: 0 0 100px 100px;
   border-bottom: solid 10px #2d9961;
 }
 
 .onion {
   width: 40%;
-  background-color: #a039bf;
+  background-color: #e2ddb6;
   border-top: dotted 20px rgba(255,255,255,.2);
 }
 
